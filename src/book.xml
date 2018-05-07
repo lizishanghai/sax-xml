@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><bookstore>
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
 	<book category="cooking">
 		<title lang="en">Everyday Italian</title>
 		<author>Giada De Laurentiis</author>
-		<year>2005</year>
-		<price>30.00</price>
-	</book>
+		<year>2005</year>		
+		<price>33.00</price>
+		<price>40.00</price></book>
 	<book category="children">
 		<title lang="en">Harry Potter</title>
 		<author>J K. Rowling</author>
